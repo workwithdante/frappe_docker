@@ -2,5 +2,21 @@
   {
     "url": "https://github.com/frappe/erpnext.git",
     "branch": "version-15"
+  },
+  {
+    "url": "https://github.com/workwithdante/SyncToFrappe.git",
+    "branch": "main"
+  },
+  {
+    "url": "https://github.com/The-Commit-Company/raven.git",
+    "branch": "main"
+  },
+  {
+    "url": "https://github.com/frappe/hrms.git",
+    "branch": "version-15"
+  },
+  {
+    "url": "https://github.com/frappe/drive.git",
+    "branch": "main"
   }
 ]
